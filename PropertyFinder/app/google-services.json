@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "981454923613",
+    "project_id": "propertyfinder-2fa6c",
+    "storage_bucket": "propertyfinder-2fa6c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981454923613:android:9fe66a1ac54854de95aab4",
+        "android_client_info": {
+          "package_name": "com.example.propertyfinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu2o6HYHfA06tK7Kzg8sn16yYAiQqx1rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

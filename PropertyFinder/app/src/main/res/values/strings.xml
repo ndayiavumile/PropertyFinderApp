@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PropertyFinder</string>
+
+    <string-array name="property_types">
+        <item>All Types</item>
+        <item>House</item>
+        <item>Apartment</item>
+        <item>Villa</item>
+    </string-array>
+</resources>
